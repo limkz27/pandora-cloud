@@ -8,7 +8,7 @@ with open('README.md', 'r', encoding='utf-8') as f:
     long_description = f.read()
 
 setup(
-    name='Sdos-Cloud',
+    name='ChatGPT-Cloud',
     version=__version__,
     python_requires='>=3.7',
     author='Neo Peng',
